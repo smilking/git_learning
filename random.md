@@ -4,3 +4,5 @@ add some text
 Git has a mutable index called stage.
 Change something.
 Add something here.
+Make some changes and save them.
+
